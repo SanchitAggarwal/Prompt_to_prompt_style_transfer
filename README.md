@@ -17,7 +17,7 @@
 
 ## Selected Models
 1. **ChatGPT**  
-2. **Gemini 1.5 Flash**  
+2. **Grok**  
 3. **Perplexity AI**
 
 # Prompt Template
